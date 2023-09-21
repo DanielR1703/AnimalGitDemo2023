@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a52ab23b-4761-4574-947d-e3a160fc5680" name="Changes" comment="First version of files">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="a52ab23b-4761-4574-947d-e3a160fc5680" name="Changes" comment="Has animal interface" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +14,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="MarkdownSettingsMigration">
@@ -62,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695303752109</updated>
-      <workItem from="1695303752303" duration="421000" />
+      <workItem from="1695303752303" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="First version of files">
       <created>1695304153386</created>
@@ -71,14 +77,41 @@
       <option name="project" value="LOCAL" />
       <updated>1695304153386</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Very good version">
+      <created>1695304204406</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695304204406</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Has animal interface">
+      <created>1695304499941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695304499941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First version of files" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version of files" />
+    <MESSAGE value="Very good version" />
+    <MESSAGE value="Has animal interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Has animal interface" />
   </component>
 </project>
